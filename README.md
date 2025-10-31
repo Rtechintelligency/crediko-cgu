@@ -7,5 +7,4 @@ This repository contains the **Conditions Générales d’Utilisation (CGU)** fo
 - `cgu_text.html` — contains the full CGU text
 - `README.md` — information about the project
 
-## Usage
-Upload all files in this zip to your **GitHub repository**, enable GitHub Pages, and access it online from your mobile or desktop browser.
+
